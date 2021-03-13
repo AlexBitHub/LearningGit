@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppGitt", "ConsoleAppGitt.csproj", "{43C8308B-2FBF-4602-A7E0-7AFA81B99C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C8308B-2FBF-4602-A7E0-7AFA81B99C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C8308B-2FBF-4602-A7E0-7AFA81B99C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C8308B-2FBF-4602-A7E0-7AFA81B99C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C8308B-2FBF-4602-A7E0-7AFA81B99C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90B97ACF-D7A8-4868-85CD-7AD69190E07B}
+	EndGlobalSection
+EndGlobal
