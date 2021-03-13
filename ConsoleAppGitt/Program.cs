@@ -13,6 +13,7 @@ namespace ConsoleAppGitt
             Console.WriteLine("Hello git!");
             Console.WriteLine("Almost forgot, hello world!");
             Console.WriteLine("Goodbuy, world!");
+            Console.WriteLine("Hello from bugfix");
         }
     }
 }
