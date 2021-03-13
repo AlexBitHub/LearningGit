@@ -14,6 +14,7 @@ namespace ConsoleAppGitt
             Console.WriteLine("Almost forgot, hello world!");
             Console.WriteLine("Goodbuy, world!");
             Console.WriteLine("From new-api branch");
+            Console.WriteLine("Hello from bugfix");
         }
     }
 }
